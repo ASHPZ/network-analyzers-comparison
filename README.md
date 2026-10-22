@@ -28,10 +28,10 @@ This project is part of the **Google Cybersecurity Professional Certificate** on
 ## 🛠 Tools Used
 - **Wireshark**
 - **tcpdump**
-- **Presentation/Diagramming Software** (for creating the visual comparison)
+- **Presentation/Diagramming Software**
 
 ## 📎 Attached Files
-- `Comparative_Diagram.pdf` - The final Venn diagram illustrating the findings.
+- `Comparative_Diagram.pdf` - The Venn diagram illustrating the findings.
 
 ---
 *Created as a pet project for the Google Cybersecurity Certificate program.*
